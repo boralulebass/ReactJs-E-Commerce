@@ -1,6 +1,8 @@
 ## ReactJs E-Commerce
 Bir ReactJs e-ticaret uygulaması, 'dummyjson' api servisi kullanan bir frontend projesi.
 
+## Server Rest Api
+- https://dummyjson.com/docs
 
 ## Kullanılan Teknolojiler
 - ReactJS
